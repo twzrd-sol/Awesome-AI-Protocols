@@ -32,6 +32,16 @@ Industry experts view Google's **Agent-to-Agent (A2A) Protocol** as the natural 
 
 
 
+
+---
+
+## 🔐 Agent Identity & Trust Protocols
+*Infrastructure for verifying agent identity and establishing trust between autonomous agents.*
+
+- **[x402 Protocol](https://x402.org)** — HTTP 402-based payment protocol enabling AI agents to autonomously pay for API access using USDC.
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for AI agents on Solana. Complements x402 by providing reputation/trust context before micropayments. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
+
 ## ✨ Star History
 
 
